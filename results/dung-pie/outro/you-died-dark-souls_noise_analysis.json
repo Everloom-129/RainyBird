@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.00981493666768074,
+    "distribution_analysis": {
+        "mean": 0.006369819864630699,
+        "std": 0.07087866961956024,
+        "skewness": 0.21834887041226325,
+        "kurtosis": 2.2579676565509903,
+        "ks_test": {
+            "statistic": 0.12559288509813105,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\dung-pie/outro\\you-died-dark-souls_noise_analysis.png"
+}

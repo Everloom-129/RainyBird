@@ -1,0 +1,22 @@
+{
+    "filename": "darksoul_bonfire_jump.mp3",
+    "duration": 6.06,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 44100,
+    "visualization_path": "results\\dung-pie/intro\\darksoul_bonfire_jump_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.07295426726341248,
+        "distribution_analysis": {
+            "mean": 0.0016987562412396073,
+            "std": 0.18961548805236816,
+            "skewness": 0.08747739053671863,
+            "kurtosis": 4.41150003385047,
+            "ks_test": {
+                "statistic": 0.15245636916882632,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\dung-pie/intro\\darksoul_bonfire_jump_noise_analysis.png"
+    }
+}

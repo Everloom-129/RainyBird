@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.01071467436850071,
+    "distribution_analysis": {
+        "mean": -0.004162109922617674,
+        "std": 0.32150474190711975,
+        "skewness": -0.015128857691595924,
+        "kurtosis": 0.2907673581374448,
+        "ks_test": {
+            "statistic": 0.06531979155881057,
+            "p_value": 4.255997599554684e-120
+        }
+    },
+    "noise_analysis_plot": "results\\dung-pie/forest\\dark-souls-kill_noise_analysis.png"
+}

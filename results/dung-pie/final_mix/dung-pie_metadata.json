@@ -1,0 +1,22 @@
+{
+    "filename": "dung-pie.mp3",
+    "duration": 105.714,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 44100,
+    "visualization_path": "results\\dung-pie/final_mix\\dung-pie_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.005362489726394415,
+        "distribution_analysis": {
+            "mean": 0.007822771556675434,
+            "std": 0.2519446313381195,
+            "skewness": 0.26552727260293657,
+            "kurtosis": 6.141028937932585,
+            "ks_test": {
+                "statistic": 0.14221512320973384,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\dung-pie/final_mix\\dung-pie_noise_analysis.png"
+    }
+}

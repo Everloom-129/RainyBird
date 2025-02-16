@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.00035120174288749695,
+    "distribution_analysis": {
+        "mean": -4.41273095930228e-06,
+        "std": 0.03384723886847496,
+        "skewness": 0.061679199117781365,
+        "kurtosis": 2.7220502453744206,
+        "ks_test": {
+            "statistic": 0.009720698665846239,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\dung-pie/fire\\fireplace-with-crackling-sounds_noise_analysis.png"
+}
