@@ -1,0 +1,22 @@
+{
+    "filename": "The-Road-Not-Taken.m4a",
+    "duration": 73.387,
+    "channels": 1,
+    "sample_width": 2,
+    "frame_rate": 48000,
+    "visualization_path": "results\\peaceful_forest_ambient_0214_2006/forest\\The-Road-Not-Taken_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.0019147837301716208,
+        "distribution_analysis": {
+            "mean": 3.408987083730608e-07,
+            "std": 0.024370433762669563,
+            "skewness": 0.015414979586940103,
+            "kurtosis": 8.518506356591795,
+            "ks_test": {
+                "statistic": 0.18039728153487822,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\peaceful_forest_ambient_0214_2006/forest\\The-Road-Not-Taken_noise_analysis.png"
+    }
+}
