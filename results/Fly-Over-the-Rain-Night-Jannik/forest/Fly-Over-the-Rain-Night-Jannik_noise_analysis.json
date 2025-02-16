@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.009613648988306522,
+    "distribution_analysis": {
+        "mean": 0.0017693471163511276,
+        "std": 0.23001925647258759,
+        "skewness": 0.04248377478187781,
+        "kurtosis": 2.6454191326295637,
+        "ks_test": {
+            "statistic": 0.08162283279018334,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\peaceful_forest_ambient_0213_0126/forest\\Fly-Over-the-Rain-Night-Jannik_noise_analysis.png"
+}

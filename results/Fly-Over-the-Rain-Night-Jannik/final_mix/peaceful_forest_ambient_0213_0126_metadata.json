@@ -1,0 +1,22 @@
+{
+    "filename": "peaceful_forest_ambient_0213_0126.mp3",
+    "duration": 300.0,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 44100,
+    "visualization_path": "results\\peaceful_forest_ambient_0213_0126/final_mix\\peaceful_forest_ambient_0213_0126_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.017436372116208076,
+        "distribution_analysis": {
+            "mean": 0.00042395832133479416,
+            "std": 0.20302288234233856,
+            "skewness": 0.008765165882782481,
+            "kurtosis": -0.2121144874959917,
+            "ks_test": {
+                "statistic": 0.018649163734029944,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\peaceful_forest_ambient_0213_0126/final_mix\\peaceful_forest_ambient_0213_0126_noise_analysis.png"
+    }
+}

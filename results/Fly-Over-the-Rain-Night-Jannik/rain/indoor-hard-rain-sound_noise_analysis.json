@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.009291520342230797,
+    "distribution_analysis": {
+        "mean": 1.5317635870815138e-06,
+        "std": 0.01361385453492403,
+        "skewness": 0.006922307678097239,
+        "kurtosis": 0.565853495097326,
+        "ks_test": {
+            "statistic": 0.008603663929567879,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\peaceful_forest_ambient_0213_0126/rain\\indoor-hard-rain-sound_noise_analysis.png"
+}
