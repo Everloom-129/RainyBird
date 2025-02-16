@@ -1,4 +1,4 @@
-# RainyBird
+# 🌧️🔥🐦 RainyBird
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Everloom-129/RainyBird/blob/main/LICENSE)
 
