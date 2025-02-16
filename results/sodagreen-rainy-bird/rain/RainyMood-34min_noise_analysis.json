@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.003537655808031559,
+    "distribution_analysis": {
+        "mean": 3.8155954484864196e-07,
+        "std": 0.03445367515087128,
+        "skewness": -0.007664556195162123,
+        "kurtosis": 15.335093390038157,
+        "ks_test": {
+            "statistic": 0.08243578956729036,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\sodagreen-rainy-bird/rain\\RainyMood-34min_noise_analysis.png"
+}

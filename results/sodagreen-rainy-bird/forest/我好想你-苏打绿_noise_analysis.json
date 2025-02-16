@@ -1,0 +1,14 @@
+{
+    "spectral_flatness": 0.003933579660952091,
+    "distribution_analysis": {
+        "mean": 0.00012528077058959752,
+        "std": 0.31201547384262085,
+        "skewness": -0.07417823016355891,
+        "kurtosis": 0.810896139909874,
+        "ks_test": {
+            "statistic": 0.06321311033770227,
+            "p_value": 0.0
+        }
+    },
+    "noise_analysis_plot": "results\\sodagreen-rainy-bird/forest\\\u6211\u597d\u60f3\u4f60-\u82cf\u6253\u7eff_noise_analysis.png"
+}

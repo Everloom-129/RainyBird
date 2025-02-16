@@ -1,0 +1,22 @@
+{
+    "filename": "canada-goose-honks.mp3",
+    "duration": 142.08,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 24000,
+    "visualization_path": "results\\sodagreen-rainy-bird/bird_calls\\canada-goose-honks_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.025734296068549156,
+        "distribution_analysis": {
+            "mean": -1.2692670679825824e-05,
+            "std": 0.015409509651362896,
+            "skewness": 1.2419725468167633,
+            "kurtosis": 92.63616997914173,
+            "ks_test": {
+                "statistic": 0.25743955758943915,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\sodagreen-rainy-bird/bird_calls\\canada-goose-honks_noise_analysis.png"
+    }
+}

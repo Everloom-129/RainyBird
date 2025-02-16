@@ -1,0 +1,22 @@
+{
+    "filename": "sodagreen-rainy-bird.mp3",
+    "duration": 400.0,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 44100,
+    "visualization_path": "results\\sodagreen-rainy-bird/final_mix\\sodagreen-rainy-bird_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.0039008078165352345,
+        "distribution_analysis": {
+            "mean": -0.000626601162366569,
+            "std": 0.19674649834632874,
+            "skewness": -0.033011287738646755,
+            "kurtosis": 11.805810880506943,
+            "ks_test": {
+                "statistic": 0.15398297643671344,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\sodagreen-rainy-bird/final_mix\\sodagreen-rainy-bird_noise_analysis.png"
+    }
+}
