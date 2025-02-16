@@ -1,0 +1,22 @@
+{
+    "filename": "ashen-one.mp3",
+    "duration": 4.288,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 44100,
+    "visualization_path": "results\\Firekeeper-reads-to-you-at-night/intro\\ashen-one_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.1146315261721611,
+        "distribution_analysis": {
+            "mean": 1.9308601622469723e-05,
+            "std": 0.06141267344355583,
+            "skewness": -0.5526025494366933,
+            "kurtosis": 4.8769333111729285,
+            "ks_test": {
+                "statistic": 0.2440572666350443,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\Firekeeper-reads-to-you-at-night/intro\\ashen-one_noise_analysis.png"
+    }
+}

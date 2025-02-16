@@ -1,0 +1,22 @@
+{
+    "filename": "Firekeeper-reads-to-you-at-night.mp3",
+    "duration": 903.942,
+    "channels": 2,
+    "sample_width": 2,
+    "frame_rate": 48000,
+    "visualization_path": "results\\Firekeeper-reads-to-you-at-night/final_mix\\Firekeeper-reads-to-you-at-night_analysis.png",
+    "noise_analysis": {
+        "spectral_flatness": 0.0024536363780498505,
+        "distribution_analysis": {
+            "mean": 0.0003684289404191077,
+            "std": 0.23176397383213043,
+            "skewness": 0.027117766401950436,
+            "kurtosis": 9.234309264736627,
+            "ks_test": {
+                "statistic": 0.1892915022422027,
+                "p_value": 0.0
+            }
+        },
+        "noise_analysis_plot": "results\\Firekeeper-reads-to-you-at-night/final_mix\\Firekeeper-reads-to-you-at-night_noise_analysis.png"
+    }
+}
